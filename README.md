@@ -1,7 +1,8 @@
 ## 开源学习作品报告
 
 在线预览：[链接](http://106.75.239.46:5174) **服务器带宽有限，初次加载可能有点慢**
-B站视频：
+
+B站视频：[链接](https://www.bilibili.com/video/BV1JV4y1b7nM/?share_source=copy_web&vd_source=60573de84ad2af78ce8acc6c7ab219c8)
 > 小组成员
 > 庄志豪 52155903033
 > 王赫 51255903031
